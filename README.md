@@ -2,10 +2,10 @@
 ## Ryan James Terpstra
 Repository for personal CIS350 assignments
 Ryan Terpstra
-*interests
-*tennis
-*piano
-*video games
+* interests
+* tennis
+* piano
+* video games
 
 ### Technical Background - Computer Engineering major at grand valley. 3 years of coding in C and embedded C as well as 2.5 years of coding in java. 
 
